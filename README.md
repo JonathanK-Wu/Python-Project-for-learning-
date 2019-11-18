@@ -1,1 +1,2 @@
-# Python-Project-for-learning-
+# Python-Project-for-learning
+print("Hello world!")
